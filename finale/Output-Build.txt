@@ -1,0 +1,7 @@
+﻿Build started...
+1>------ Build started: Project: final, Configuration: Debug Any CPU ------
+1>C:\Users\kfiru\OneDrive\שולחן העבודה\final\final\DBConnection.cs(15,20,15,23): warning CS0169: The field 'DBConnection.cmd' is never used
+1>C:\Users\kfiru\OneDrive\שולחן העבודה\final\final\DBConnection.cs(14,16,14,22): warning CS0169: The field 'DBConnection.strCmd' is never used
+1>C:\Users\kfiru\OneDrive\שולחן העבודה\final\final\Animal.cs(14,20,14,23): warning CS0169: The field 'Animal.dt1' is never used
+1>  final -> C:\Users\kfiru\OneDrive\שולחן העבודה\final\final\bin\Debug\final.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
